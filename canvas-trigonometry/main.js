@@ -1,5 +1,6 @@
 
-
+//https://www.youtube.com/watch?v=GDTHmH9mZWA&t=1481s
+//Derek Banas
 
 const RADIUS = 200;
 const X_CIRCLE_CENTER =300;
